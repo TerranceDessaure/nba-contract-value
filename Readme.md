@@ -1,6 +1,6 @@
 # NBA Contract Value: Who's a Bargain and Who's Overpaid?
 
-**Live app:** [ADD YOUR STREAMLIT LINK HERE]
+**Live app:** [[Interactive Dashboard](https://nba-contract-value-eadkmhpnha4khe8yyekwxv.streamlit.app/)]
 
 Every NBA front office asks the same question under the salary cap: how much production are we getting for each dollar? This project compares every player's **2026-27 salary** to what his **2025-26 production** is worth at the league's going rate, then ranks the biggest bargains and the worst contracts.
 
